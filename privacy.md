@@ -84,7 +84,7 @@ Our providers may process data in the United States and other countries outside 
 ## 5. How long we keep data
 
 - **Account, children's profiles, stories and progress:** until you delete them or delete your account.
-- **Cloned voices:** until you delete the voice or your account. Deletion also removes the voice from ElevenLabs.
+- **Cloned voices:** until you delete the voice or your account, or until one day after your paid subscription ends, whichever comes first. Deletion also removes the voice from ElevenLabs.
 - **Voice recordings:** not stored on our servers. A temporary copy may remain in the App's temporary storage on your device until the operating system clears it.
 - **Subscription event records:** up to [RETENTION PERIOD, e.g. 7 years] after the event, to meet accounting and tax obligations and to handle disputes. After account deletion these records are no longer linked to your profile.
 - **Server logs:** a limited period set by our hosting provider, typically no more than 90 days.

@@ -26,6 +26,7 @@ Elowa lets you create personalized children's stories. You provide details such 
 - You may only record and clone **your own voice**. Recording or uploading another person's voice without their explicit permission is prohibited.
 - By recording a voice sample you consent to it being sent to our voice-synthesis provider to create a synthetic voice used to narrate your stories.
 - You may delete a cloned voice at any time in the App. Deleting it removes the voice from our provider.
+- Voice cloning is part of paid plans. If your subscription ends and is not renewed, your cloned voices are deleted automatically one day later, including from our provider. Stories already narrated keep their audio.
 - You must not use cloned voices to impersonate anyone, deceive others, or create content outside the App.
 
 ## 5. Acceptable use
